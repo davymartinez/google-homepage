@@ -1,0 +1,73 @@
+.top-navbar {
+    font-family: sans-serif;
+}
+
+.navbar {
+    list-style-type: none;
+    margin-top: 10px;
+    margin-bottom: 32px;
+    padding: 0;
+}
+
+.navbar li {
+    display: inline;
+    padding: 4px;
+}
+
+.logo {
+    display: block;
+    margin: 32px auto 32px;
+}
+
+.googlelogo {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.search-box {
+    margin: 32px auto 32px;
+}
+
+.input-field {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.button-area {
+    text-align: center;
+    margin: 32px auto 32px;
+}
+
+.language-selection {
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.country-bar p {
+    font-family: sans-serif;
+}
+
+.bottom-navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.bottom-navbar li {
+    font-family: sans-serif;
+    display: inline;
+}
+
+#bottom-left {
+    display: inline;
+    text-align: left;
+    float: left;
+}
+
+#bottom-right {
+    display: inline;
+    text-align: right;
+    float: right;
+}
